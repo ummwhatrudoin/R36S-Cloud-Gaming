@@ -100,7 +100,6 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
 4. Connect your Wi-Fi USB to the Type C OTG Adapter, There should be a space at the bottom for the USB.
 5. Install Web Browser´s APK´s that are **SPECIFICALLY MADE** for **THIS CONSOLE** or the **OS**.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
