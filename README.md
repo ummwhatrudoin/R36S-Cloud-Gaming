@@ -5,7 +5,7 @@
 Hey guys! Thgis project is abt a try of pushing the R36S hardware capabilities far far away of it´s limits.
 But before we start, Take a look:
 
-Things YOU WILL NEED:
+# Things YOU WILL NEED:
 - R36S Gaming Handheld (of course)
 - USB Wi-FI Type C OTG Port for R36S (so we can enter the web)
 - Patience, MANY patience.
