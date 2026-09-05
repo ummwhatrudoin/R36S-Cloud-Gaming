@@ -92,10 +92,10 @@ This is an example of the games you could play right now!
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+First, you will need tio connect ur console to Wi-Fi with the things i said earlier.
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Get your Wi-Fi USB (Something like TP-Link or smth that´s in ur country.)
+2. Get your OTG Adapter: https://www.temu.com/ul/kuiper/un9.html?subj=goods-un&_bg_fs=1&_p_jump_id=894&_x_vst_scene=adg&goods_id=601099514936139&sku_id=17592205719696&adg_ctx=a-0cc24bae~c-5bc79865~f-34ca336d&_x_ads_sub_channel=shopping&_p_rfs=1&_x_ns_prz_type=-1&_x_ns_sku_id=17592205719696&_x_ns_gid=601099514936139&mrk_rec=1&_x_ads_channel=google&_x_gmc_account=5551204353&_x_login_type=Google&_x_ns_gg_lnk_type=adr&_x_ads_account=3808977096&_x_ads_set=23354591012&_x_ads_id=189497647426&_x_ads_creative_id=787907966821&_x_ns_source=g&_x_ns_gclid=Cj0KCQjw--7UBhCpARIsAGJBptjxze_6Dlj_HRjbSkQbbJ4RlagG6UgqpMeqR6mJ3FOrQDrInOd7TL8aAsu1EALw_wcB&_x_ns_placement=&_x_ns_match_type=&_x_ns_ad_position=&_x_ns_product_id=17592205719696&_x_ns_target=&_x_ns_devicemodel=&_x_ns_wbraid=Ck0KCQjw2OnUBhDlARI8ANhj4IVQVMzjEESLFEnN61H5uUIUblaQjlFrxCk8wkD3VvkyLRyWbxYDl32dZJXMyH0LdiTa8-BT0MhIGgIoaA&_x_ns_gbraid=0AAAAAo4mICEQZSWoGRkvu9CDViAvXpGVY&_x_ns_targetid=pla-2452538236541&gad_source=1&gad_campaignid=23354591012&gbraid=0AAAAAo4mICEQZSWoGRkvu9CDViAvXpGVY&gclid=Cj0KCQjw--7UBhCpARIsAGJBptjxze_6Dlj_HRjbSkQbbJ4RlagG6UgqpMeqR6mJ3FOrQDrInOd7TL8aAsu1EALw_wcB
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
