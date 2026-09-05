@@ -84,8 +84,6 @@ This is an example of the games you could play right now!
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
   ```sh
   - R36S Handheld Console
   -USB with Wi-Fi
