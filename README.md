@@ -87,7 +87,9 @@ This is an example of the games you could play right now!
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+  - R36S Handheld Console
+  -USB with Wi-Fi
+  -Type C OTG Port Adapter for the Wi-Fi Usb.
   ```
 
 ### Installation
