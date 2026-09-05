@@ -93,7 +93,7 @@ Here's why I made it:
 * To inform people everything that you propose is something that someday you will make it!
 * So everyone in the world can enjoy this without having to spend a grand on a Steam Deck or a Gaming PC. :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
+Of course, I haven´t tested any of these games yet because o don´t have any Wi-Fi adapter (not yet!), the only one i have is an OTG adapter. So I am looking foward to getting one so i can post gameplay tests here!
 
 Use the `BLANK_README.md` to get started.
 
