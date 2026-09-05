@@ -95,8 +95,6 @@ Here's why I made it:
 
 Of course, I haven´t tested any of these games yet because o don´t have any Wi-Fi adapter (not yet!), the only one i have is an OTG adapter. So I am looking foward to getting one so i can post gameplay tests here!
 
-Use the `BLANK_README.md` to get started.
-
 <p align="right">(<a href="#readme-top">Back to the top!</a>)</p>
 
 
