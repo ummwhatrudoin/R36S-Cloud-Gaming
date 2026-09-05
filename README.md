@@ -15,8 +15,7 @@ But before we start, Take a look:
 ## How did this project start off?
 This project started off as an experiment, and as a stupid idea between me.}
 I´ve always wanted to play my games anywhere, just in my pocket :)
-This started off from me wanting to play Fortnite on the R36S console, Vut i realized I could even play Doom: The Dark Ages or Dead Island 2
-```
+This started off from me wanting to play Fortnite on the R36S console, Vut i realized I could even play Doom: The Dark Ages or Dead Island 2.
 
 
 
