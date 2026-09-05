@@ -18,32 +18,7 @@ I´ve always wanted to play my games anywhere, just in my pocket :)
 This started off from me wanting to play Fortnite on the R36S console, Vut i realized I could even play Doom: The Dark Ages or Dead Island 2
 ```
 
-### ✅ Compatible con Steam y Navegador
 
-<img src="assets/2.png" width="100%">
-
----
-
-## 📋 Requisitos
-
-| Software | Descripción |
-|----------|-------------|
-| 🔗 **Tailscale** | Conexión segura de red |
-| 🌙 **Moonlight** | Cliente de streaming |
-
----
-
-<div align="center">
-
-## 📺 TUTORIAL
-
-[![Tutorial en YouTube](https://img.youtube.com/vi/zkxQ1IQ--7M/maxresdefault.jpg)](https://youtu.be/zkxQ1IQ--7M?si=avkAjTEgBRfEpBRc)
-
-**[▶️ Ver Tutorial Completo en YouTube](https://youtu.be/zkxQ1IQ--7M?si=avkAjTEgBRfEpBRc)**
-
-</div>
-
-## 💻 Especificaciones de la Máquina Virtual
 
 | 🎮 **GPU** | ⚡ **CPU** | 💾 **RAM** | 🖥️ **Sistema Operativo** |
 |:----------:|:----------:|:----------:|:------------------------:|
