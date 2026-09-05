@@ -98,15 +98,7 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
 2. Complete the installation.
 3. Get your OTG Adapter, It must enter the console correctly and have a USB port at the bottom.
 4. Connect your Wi-Fi USB to the Type C OTG Adapter, There should be a space at the bottom for the USB.
-
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+5. Install Web Browser´s APK´s that are **SPECIFICALLY MADE** for **THIS CONSOLE** or the **OS**.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
