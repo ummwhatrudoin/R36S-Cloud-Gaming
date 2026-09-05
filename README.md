@@ -57,7 +57,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">First of All, What is this?</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -85,7 +85,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+This is a project that I started because everywhere i went I grabbed my R36S and played some games that are not modern, so they would make me bored instantly.
+But that´s gonna change today! I am introducing you my greatest (and first ever project) of the R36S Cloud Gaming!
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
