@@ -12,14 +12,6 @@ But before we start, Take a look:
 
 ---
 
-> ✅ **ACTUALIZADO (10/01/2026):** ¡Steam funciona correctamente!
-
-[📺 Ver Demostración en YouTube](https://youtu.be/zkxQ1IQ--7M?si=avkAjTEgBRfEpBRc)
-
-</div>
-
----
-
 ## 🚀 Inicio Rápido
 
 ```bash
