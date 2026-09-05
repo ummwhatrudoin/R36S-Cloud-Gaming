@@ -97,7 +97,7 @@ Of course, I haven´t tested any of these games yet because o don´t have any Wi
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to the top!</a>)</p>
 
 
 
