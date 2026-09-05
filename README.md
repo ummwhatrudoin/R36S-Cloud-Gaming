@@ -1,9 +1,8 @@
 <div align="center">
 
-# ☁️ Colab Cloud Gaming
-### ⭐ ¡Si te fue útil, no olvides dejar una estrella!
+# R36S Cloud Gaming! ⭐
 
-### 🎮 Ejecuta Steam y juega en la nube con Google Colab
+### 
 
 ![Portada](assets/1.png)
 
