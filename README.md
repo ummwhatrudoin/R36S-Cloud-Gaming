@@ -16,12 +16,8 @@ But before we start, Take a look:
 This project started off as an experiment, and as a stupid idea between me.}
 I´ve always wanted to play my games anywhere, just in my pocket :)
 This started off from me wanting to play Fortnite on the R36S console, Vut i realized I could even play Doom: The Dark Ages or Dead Island 2.
+´I haven´t played them just YET!´
 
-
-
-| 🎮 **GPU** | ⚡ **CPU** | 💾 **RAM** | 🖥️ **Sistema Operativo** |
-|:----------:|:----------:|:----------:|:------------------------:|
-| **NVIDIA Tesla T4** | **Intel Xeon**<br>2 Cores @ 2.0GHz | **12.67 GB** | **Ubuntu 22.04.4 LTS** |
 
 </div>
 
