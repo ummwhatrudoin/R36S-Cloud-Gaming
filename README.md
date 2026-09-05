@@ -10,14 +10,6 @@ But before we start, Take a look:
 - USB Wi-FI Type C OTG Port for R36S (so we can enter the web)
 - Patience, MANY patience.
 
-![Portada](assets/1.png)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kmille36/Colab-Cloud-Gaming/blob/main/ColabSteam.ipynb)
-[![GitHub Stars](https://img.shields.io/github/stars/kmille36/Colab-Cloud-Gaming?style=social)](https://github.com/kmille36/Colab-Cloud-Gaming/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/kmille36/Colab-Cloud-Gaming?style=social)](https://github.com/kmille36/Colab-Cloud-Gaming/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/kmille36/Colab-Cloud-Gaming)](https://github.com/kmille36/Colab-Cloud-Gaming/issues)
-[![GitHub License](https://img.shields.io/github/license/kmille36/Colab-Cloud-Gaming)](https://github.com/kmille36/Colab-Cloud-Gaming/blob/main/LICENSE)
-
 ---
 
 > ✅ **ACTUALIZADO (10/01/2026):** ¡Steam funciona correctamente!
