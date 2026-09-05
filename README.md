@@ -2,7 +2,7 @@
 
 # R36S Cloud Gaming! ⭐
 
-### 
+Hey guys! Thgis project is abt a try of pushing the R36S hardware capabilities far far away of it´s limits.
 
 ![Portada](assets/1.png)
 
