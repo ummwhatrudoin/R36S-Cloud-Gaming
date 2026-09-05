@@ -20,7 +20,7 @@ This started off from me wanting to play Fortnite on the R36S console, Vut i rea
 
 </div>
 
-### 🎮 Juegos que corre esta PC
+### Games that I will be testing! ⭐
 
 # - Doom Eternal
 <img src="assets/4.jpeg" width="100%">
