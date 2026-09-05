@@ -89,7 +89,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   - R36S Handheld Console
   -USB with Wi-Fi
-  -Type C OTG Port Adapter for the Wi-Fi Usb.
+  -Type C OTG Port Adapter
   ```
 
 ### Installation
