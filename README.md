@@ -105,7 +105,7 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
 ## Games you could run! (Via Xbox Cloud Gaming or GeForce Now)
 
 1. Dead Island 2 (with controller support :D)
- <img src="images/di2.png" alt="Logo" width="1280" height="720">
+ <img src="images/di2.png" alt="Logo" width="450" height="253">
    
 
 _For more examples, please refer to the [Documentation](https://example.com)_
