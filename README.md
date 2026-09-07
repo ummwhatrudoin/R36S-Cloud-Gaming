@@ -102,7 +102,7 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
 
 
 <!-- USAGE EXAMPLES -->
-## Games you could run! (Via Xbox Cloud Gaming or GeForce Now)
+## Games you could run! (TESTED) (Via Xbox Cloud Gaming or GeForce Now)
 
 1. Dead Island 2 (with controller support :D)
  <img src="images/di2.png" alt="Logo" width="450" height="253">
