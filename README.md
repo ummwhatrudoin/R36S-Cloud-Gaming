@@ -93,7 +93,8 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
 ## Games you could run! (TESTED) (Via Xbox Cloud Gaming or GeForce Now)
 
 1. [Dead Island 2 ](https://store.epicgames.com/p/dead-island-2?lang=es-ES)
-<img src="di2.jpg">
+<img src="di2.png">
+<img src="di22.png">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
