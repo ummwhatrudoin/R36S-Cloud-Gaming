@@ -97,6 +97,7 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
  <img src="images/di22.png" alt="Logo" width="468" height="280">
 
 2.  [Hollow Knight: Silksong](https://hollowknightsilksong.com/)
+   <img src="images/hks.webp" alt="Logo" width="468" height="280">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
