@@ -106,9 +106,7 @@ First, you will need tio connect ur console to Wi-Fi with the things i said earl
 <!-- LICENSE -->
 ## How do I set-up my console?
 
-Check the following Reddit and YouTube links that introduce you to the topic of the **R36S**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WVKV0j_Agvs?si=sOlYcv72pQBOhuzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WVKV0j_Agvs?si=sOlYcv72pQBOhuzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
