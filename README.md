@@ -110,7 +110,6 @@ Watch this video for basics, I really recommend to enter the **OFFICIAL** R36S R
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WVKV0j_Agvs">
-    <img src="https://www.youtube.com/watch?v=WVKV0j_Agvs" alt="Watch the video" width="560">
   </a>
 </p>
 
