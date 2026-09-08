@@ -4,7 +4,7 @@
 
   <img src="images/logo.png" alt="R36S Cloud Gaming Logo" width="520">
 
-  # 🎮 R36S Cloud Gaming
+  # R36S Cloud Gaming
 
   **Turn the tiny R36S into a pocket-sized cloud gaming client.**
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌩️ What is R36S Cloud Gaming?
+## What is R36S Cloud Gaming?
 
 The **R36S** is an inexpensive handheld designed primarily for retro gaming. That's great… until you've played your entire library and start wishing you could carry newer games with you.
 
@@ -40,20 +40,20 @@ Instead of rendering the game locally, a cloud gaming service does the heavy wor
 
 That means a small handheld can potentially access games that would be far beyond its local hardware capabilities.
 
-### 🎯 Project goals
+### Project goals
 
-- 🎮 Play modern games on a tiny retro handheld.
-- ☁️ Experiment with **Xbox Cloud Gaming** and **GeForce NOW**.
-- 📶 Make the setup as portable as possible.
-- 💸 Explore cloud gaming as a cheaper alternative to buying a powerful gaming PC or handheld.
-- 🧪 Document what actually works instead of promising that every game will run.
-- 🛠️ Build a repeatable setup that other R36S owners can experiment with.
+- Play modern games on a tiny retro handheld.
+- Experiment with **Xbox Cloud Gaming** and **GeForce NOW**.
+- Make the setup as portable as possible.
+- Explore cloud gaming as a cheaper alternative to buying a powerful gaming PC or handheld.
+- Document what actually works instead of promising that every game will run.
+- Build a repeatable setup that other R36S owners can experiment with.
 
 > **Important:** Cloud gaming performance depends heavily on your Wi-Fi connection, latency, browser/OS compatibility, controller mapping, and the cloud service itself.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Status |
 |---|:---:|
@@ -69,7 +69,7 @@ That means a small handheld can potentially access games that would be far beyon
 
 ---
 
-## 🧠 How it works
+## How it works
 
 ```mermaid
 flowchart LR
@@ -103,7 +103,7 @@ The R36S doesn't need to render the game itself. That's the whole trick.
 
 ---
 
-## 🗺️ Project mind map
+## Project mind map
 
 ```mermaid
 mindmap
@@ -145,11 +145,11 @@ mindmap
 
 ---
 
-# 🎮 Game ideas
+#  Game ideas
 
 The following are **cloud-gaming candidates/examples**, not a guarantee that every title is currently available on every service.
 
-### 🧟 Dead Island 2
+### Dead Island 2
 
 <a href="https://store.epicgames.com/p/dead-island-2?lang=en-US">
   <img src="images/di2.png" alt="Dead Island 2" width="450">
@@ -159,11 +159,11 @@ The following are **cloud-gaming candidates/examples**, not a guarantee that eve
 
 A perfect example of the project's purpose: a game that is far too demanding for the R36S's normal hardware, but could potentially be streamed from a more powerful machine.
 
-**Status:** 🧪 Cloud-gaming experiment
+**Status:** Cloud-gaming experiment
 
 ---
 
-### 🐞 Hollow Knight: Silksong
+### Hollow Knight: Silksong
 
 <a href="https://hollowknightsilksong.com/">
   <img src="images/hks.webp" alt="Hollow Knight Silksong" width="750">
@@ -173,11 +173,11 @@ A perfect example of the project's purpose: a game that is far too demanding for
 
 A much lighter game than Dead Island 2, making it an interesting candidate for testing latency, controls, and image quality.
 
-**Status:** 🧪 Cloud-gaming experiment
+**Status:** Cloud-gaming experiment
 
 ---
 
-### 🪂 Fortnite
+###  Fortnite
 
 A useful candidate for testing fast movement, camera control, and input latency.
 
@@ -188,29 +188,29 @@ A useful candidate for testing fast movement, camera control, and input latency.
 - Great for detecting input delay
 - Popular cloud-gaming use case
 
-**Status:** 🔎 Candidate
+**Status:** Candidate
 
 ---
 
-### 🌃 Cyberpunk 2077
+### Cyberpunk 2077
 
 One of the ultimate stress tests for the concept.
 
 The R36S cannot realistically render the game locally, but cloud streaming moves the rendering workload to a remote gaming PC.
 
-**Status:** 🔎 Candidate
+**Status:** Candidate
 
 ---
 
-### ⛏️ Minecraft
+###  Minecraft
 
 Minecraft can be interesting for testing both controller compatibility and longer play sessions.
 
-**Status:** 🔎 Candidate
+**Status:** Candidate
 
 ---
 
-### 💡 More games worth experimenting with
+### More games worth experimenting with
 
 - **DOOM Eternal**
 - **Forza Horizon 5**
@@ -229,15 +229,15 @@ Minecraft can be interesting for testing both controller compatibility and longe
 
 ---
 
-# 📡 What you need
+# What you need
 
 ### Hardware
 
-- 🎮 **R36S handheld**
-- 🔌 **USB-C OTG adapter**
-- 📶 **USB Wi-Fi adapter compatible with your OS**
-- 💾 MicroSD card
-- 🔋 Charged handheld
+-  **R36S handheld**
+-  **USB-C OTG adapter**
+-  **USB Wi-Fi adapter compatible with your OS**
+-  MicroSD card
+-  Charged handheld
 
 ### Software
 
@@ -250,7 +250,7 @@ Depending on the approach you use:
 
 ---
 
-# 🛠️ Setup
+#  Setup
 
 > ⚠️ **Experimental project:** the exact steps can vary depending on your R36S revision, operating system, Wi-Fi adapter, and browser.
 
@@ -278,10 +278,10 @@ USB-C OTG Adapter
 USB Wi-Fi Adapter
   │
   ▼
-📶 Wi-Fi Router
+ Wi-Fi Router
   │
   ▼
-☁️ Internet
+ Internet
 ```
 
 Use hardware that is actually supported by the operating system you choose.
@@ -316,21 +316,21 @@ Once networking and browser support are working:
 
 ---
 
-# 📊 Testing checklist
+#  Testing checklist
 
 When a game is tested, record more than just "it works."
 
 | Test | What to record |
 |---|---|
-| 🎮 Controls | Buttons, sticks, triggers |
-| 📶 Wi-Fi | Connection quality |
-| ⏱️ Latency | Noticeable input delay |
-| 🖼️ Image | Resolution / compression |
-| 🔊 Audio | Stuttering / delay |
-| 🔋 Battery | Approx. play time |
-| 🌡️ Heat | Temperature / comfort |
-| 💥 Stability | Crashes / disconnects |
-| ⭐ Overall | Playability rating |
+|  Controls | Buttons, sticks, triggers |
+|  Wi-Fi | Connection quality |
+|  Latency | Noticeable input delay |
+|  Image | Resolution / compression |
+|  Audio | Stuttering / delay |
+|  Battery | Approx. play time |
+|  Heat | Temperature / comfort |
+|  Stability | Crashes / disconnects |
+|  Overall | Playability rating |
 
 ### Suggested rating
 
@@ -341,7 +341,7 @@ When a game is tested, record more than just "it works."
 
 ---
 
-# 🧪 Compatibility matrix
+#  Compatibility matrix
 
 This section can grow as real tests are performed.
 
@@ -361,9 +361,9 @@ This section can grow as real tests are performed.
 
 ---
 
-# ⚡ Tips for better cloud gaming
+# Tips for better cloud gaming
 
-### 📶 Use the best Wi-Fi you can
+### Use the best Wi-Fi you can
 
 Cloud gaming is much more sensitive to network quality than ordinary web browsing.
 
@@ -375,7 +375,7 @@ Whenever possible:
 - Avoid large downloads while gaming.
 - Test latency, not only download speed.
 
-### 🎮 Start with slower games
+###  Start with slower games
 
 Before testing competitive shooters, try:
 
@@ -386,7 +386,7 @@ Before testing competitive shooters, try:
 
 This makes it easier to determine whether the problem is the network, browser, controls, or game itself.
 
-### 🖼️ Don't chase maximum resolution
+###  Don't chase maximum resolution
 
 A stable lower-resolution stream can feel much better than a high-quality stream with constant buffering.
 
@@ -394,7 +394,7 @@ A stable lower-resolution stream can feel much better than a high-quality stream
 
 ---
 
-# 🔧 Troubleshooting
+#  Troubleshooting
 
 ## "The R36S has no internet"
 
@@ -450,7 +450,7 @@ If latency remains high, the issue may be the network route or cloud server rath
 
 ---
 
-# 🧰 Recommended project structure
+#  Recommended project structure
 
 ```text
 R36S-Cloud-Gaming/
@@ -471,7 +471,7 @@ R36S-Cloud-Gaming/
 
 ---
 
-# 🚧 Roadmap
+#  Roadmap
 
 - [x] Create the R36S Cloud Gaming project
 - [x] Add project documentation
@@ -495,29 +495,20 @@ R36S-Cloud-Gaming/
 
 ---
 
-# 📸 Show your setup
+#  Show your setup
 
 Once real hardware testing begins, this README can include:
 
-- 📷 R36S + OTG + Wi-Fi adapter photos
-- 🎮 Controller mapping screenshots
-- 🌐 Browser screenshots
-- 🎥 Gameplay clips
-- 📊 Latency tests
-- 🔋 Battery tests
-- 🧪 Before/after experiments
+-  R36S + OTG + Wi-Fi adapter photos
+-  Controller mapping screenshots
+-  Browser screenshots
+-  Gameplay clips
+-  Latency tests
+-  Battery tests
+-  Before/after experiments
 
-A great future addition would be a short GIF showing:
 
-```text
-R36S → Wi-Fi → Cloud Gaming → Game
-```
-
-That would make the project immediately understandable to someone discovering the repository for the first time.
-
----
-
-# 📺 Basic R36S setup reference
+#  Basic R36S setup reference
 
 For general R36S setup information, check the community resources around the device before modifying your console.
 
@@ -527,7 +518,7 @@ You can also use the original setup video referenced by this project:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Have an R36S and want to help test the idea?
 
@@ -561,7 +552,7 @@ Real-world testing is much more valuable than simply adding games to a list.
 
 ---
 
-# ⚠️ Disclaimer
+#  Disclaimer
 
 This is an **experimental community project**.
 
@@ -576,7 +567,7 @@ This project does **not** distribute games, ROMs, copyrighted game files, or pai
 
 ---
 
-# 📜 License
+#  License
 
 This project is released under the **Unlicense**.
 
@@ -590,8 +581,8 @@ See [`LICENSE.txt`](LICENSE.txt) for the complete license text.
 
 ### ⭐ If this project helped you, consider giving it a star!
 
-**Made for people who want to take their games everywhere. 🎮☁️**
+**Made for people who want to take their games everywhere. **
 
-<a href="#readme-top">⬆️ Back to top</a>
+<a href="#readme-top">Back to top</a>
 
 </div>
