@@ -159,7 +159,7 @@ The following are **cloud-gaming candidates/examples**, not a guarantee that eve
 
 A perfect example of the project's purpose: a game that is far too demanding for the R36S's normal hardware, but could potentially be streamed from a more powerful machine.
 
-**Status:** Cloud-gaming experiment
+**Status:** TESTED! (8/10)
 
 ---
 
@@ -173,7 +173,7 @@ A perfect example of the project's purpose: a game that is far too demanding for
 
 A much lighter game than Dead Island 2, making it an interesting candidate for testing latency, controls, and image quality.
 
-**Status:** Cloud-gaming experiment
+**Status:** TESTED! (10/10)
 
 ---
 
