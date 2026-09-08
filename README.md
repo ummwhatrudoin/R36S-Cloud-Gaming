@@ -194,6 +194,8 @@ A useful candidate for testing fast movement, camera control, and input latency.
 
 ### Cyberpunk 2077
 
+ <img src="images/cyberpunk.png" alt="Cyberpunk 2077" width="450">
+ 
 One of the ultimate stress tests for the concept.
 
 The R36S cannot realistically render the game locally, but cloud streaming moves the rendering workload to a remote gaming PC.
